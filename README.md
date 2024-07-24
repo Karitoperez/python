@@ -1,2 +1,2 @@
 # python
-aqui se guardaran todos los trabajos de python de tercer semestre, junto a mi proyecto final de semestre realizado de manera grupal y algunos diagramas de guia
+aqui se guardaran todos los trabajos de python realizados como prueba de mi aprendizaje, junto a la base de datos de my sql de mi proyecto integrador, realizado junto a mis compañeros de Universidad.
